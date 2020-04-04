@@ -9,10 +9,10 @@ dataDir: data
 pagesDir: content
 pageLayoutKey: layout
 metadata:
-  title: Libris
-  description: A documentation theme
-  author: Stackbit
-  authorURL: 'https://www.stackbit.com'
+  title: Lifeintheuk.net
+  description: Pass the Life in the UK Test on your first attempt
+  author: Red Squirrel Publishing
+  authorURL: 'https://www.redsquirrebooks.com'
   palettes:
     blue:
       images:

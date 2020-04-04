@@ -1,6 +1,6 @@
-content: '&copy; Stackbit-Libris. All rights reserved.'
+content: '&copy; Red Squirrel Publishing. All rights reserved.'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+  - text: RedSquirrelBooks.com
+    url: 'https://www.redsquirrelbooks.com'
     new_window: true
 has_social: true

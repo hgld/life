@@ -1,6 +1,6 @@
 ---
-title: Blog
-subtitle: This is an optional subtitle for the blog page
+title: News
+subtitle: The latest udpates on UK citizenship and ILR.
 img_path: images/5.jpg
 menu:
   main:

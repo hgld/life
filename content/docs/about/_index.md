@@ -1,12 +1,9 @@
 ---
-title: About
-excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+title: About the test
 layout: docs
 ---
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
+This section tells you what you need to know about the Life in the UK test: what it involves and who needs to take it. Once you’ve read everything here, and are ready to start studying, you can find more information in How to Prepare.
 
 ***
 

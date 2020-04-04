@@ -1,0 +1,9 @@
+---
+title: 'Home Secretary gives more details on settlement for EU nationals'
+date: Thu, 21 Dec 2017 10:46:44 +0000
+draft: false
+layout: post
+
+---
+
+19 December 2017 The Home Secretary, Amber Rudd, has written to EU nationals resident in the UK to reassure them about their future in the UK after Brexit. This follows information provided recently by the Prime Minister, Theresa May, about negotiations and an agreement reached with the EU, details of which can be found [here](https://gov.smartwebportal.co.uk/homeoffice/public/webform.asp?id=67&id2=627DF7). Ms Rudd emphasised that the agreement reached would ensure the rights that EU nationals and their families currently have would remain broadly the same after Brexit with access to healthcare, benefits and pensions protected. And close family members living outside the UK would retain the right to join EU nationals in the UK in the future. Ms Rudd says the Home Office has been working hard to build the digital system that EU nationals will use use to get their new settled status. She says it is being designed from scratch to be quick and simple to use. She maintains that there won’t be bureaucratic hurdles – those processing applications will work in favour of applicants. Ms Rudd also confirmed that the application for settled status will cost no more than the fee a British person pays for a passport.  If an applicant already has valid permanent residence documentation then the application process will be free. She says there will be support for vulnerable people and those without access to a computer. And the Government is consulting with EU citizens’ representatives and embassies to ensure the system works for everyone. Ms Rudd says more detail about the settled status scheme will be released in the new year. It is expected that applications will open during the second half of 2018.

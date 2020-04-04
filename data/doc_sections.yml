@@ -1,9 +1,9 @@
 root_folder: /docs/
 sections:
   - about
-  - getting-started
-  - ui-components
-  - manage-content
-  - tools
+  - prepare
+  - after-the-test
   - faq
-  - community
+  - advisors
+  - clarifications
+  - errata

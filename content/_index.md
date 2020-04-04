@@ -18,15 +18,13 @@ sections:
     section_id: features
     component: features_block.html
     featureslist:
-      - title: Documentation
+      - title: Quick Start Guide
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Find everything you need to know about the Life in the UK test and how to prepare with our Quick Start Guide. We have broken our advice into short articles which cover the test itself, how to prepare for it and some advice on what to do after you have passed.
         actions:
-          - label: Get Started
+          - label: Learn more
             url: docs/index.html
-      - title: Blog
+      - title: Latest News
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.

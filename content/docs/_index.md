@@ -1,20 +1,17 @@
 ---
-title: Welcome to Libris
-menu:
-  main:
-    name: Docs
-    weight: 2
+title: Introduction
+date: Tue, 31 Jan 2017 15:48:21 +0000
+draft: false
 layout: docs
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+You can find everything you need to know about the Life in the UK test and how to prepare here. 
 
-***
+We have broken our advice into short articles which cover the test itself, how to prepare for it and some advice on what to do after you have passed. If you are new to the Life in the UK test, the best place to start is the [Key facts](http://lifeintheuk.wpengine.com/?page_id=120) post.
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
+*   [About the Test](/?page_id=38) - this section tells you who needs to take the test, what it involves and what you need to read to prepare for the test.
+*   [How to Prepare](/?page_id=127) - This section includes study tips and techniques from successful students, along with advice on booking your test.
+*   [After Your Test](/?page_id=135) - The final section gives you some advice on completing your application for Settlement/Citizenship, after you have passed you test.
 
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
+If you are ready to start studying, you can find out more about our study guides from the [Buy the Books](/?page_id=33) menu, and sign up for online practice tests from our [Online Tests](/?page_id=194) page.
 
-[Morbi ac vulputate enim](https://stackbit.com)
-
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
