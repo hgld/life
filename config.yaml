@@ -25,11 +25,8 @@ menu:
   - url: https://learn.redsquirrelbooks.com/users/sign_in
     name: Login
     weight: 7
-  - url: "#"
-    name: Sample Layouts
-    weight: 6
-    identifier: layouts
 disableKinds:
 - RSS
 - taxonomy
 - taxonomyTerm
+googleAnalytics: UA-127570-8

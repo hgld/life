@@ -5,7 +5,7 @@ img_path: images/5.jpg
 layout: blog
 menu:
   main:
-    name: Blog
-    weight: 4
+    name: News
+    weight: 2
 
 ---

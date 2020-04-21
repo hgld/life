@@ -1,5 +1,5 @@
 ---
-title: Pass on your first attempt
+title: Trusted. Indepedent. Proven.
 subtitle: Best selling series. Over 750,000 copies sold.
 img_path: images/5.jpg
 items:
@@ -29,8 +29,7 @@ items:
 layout: showcase
 menu:
   main:
-    name: Buy the Books
-    weight: 3
-    parent: layouts
+    name: Books
+    weight: 4
 
 ---

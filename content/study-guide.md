@@ -1,13 +1,13 @@
 ---
-title: Home
+title: Study Guide
 sections:
 - type: heroblock
   template: heroblock
-  title: Pass on your first attempt
+  title: Study Guide
   section_id: hero
   component: hero_block.html
   content: Experience you can trust. We've helped over 750,000 people pass their test.
-  image: images/5.jpg
+  image: images/covers/9781907389689.png
   actions:
   - label: Get Books
     url: /books
@@ -22,7 +22,7 @@ sections:
       to prepare with our Quick Start Guide. We have broken our advice into short
       articles which cover the test itself, how to prepare for it and some advice
       on what to do after you have passed.
-  image: images/10.jpg
+  image: images/covers/9781907389689.png
   actions:
   - label: View Demo
     url: "/docs/getting-started/index.html"
